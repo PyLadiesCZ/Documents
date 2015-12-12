@@ -11,4 +11,4 @@
 9. Nepoužívám terminologii, kterou PyL zatím nezná, ani nezlehčuji problémy, které řeší. Chápu, že je začátečník a pravděpodobně nemá ani technické zázemí.
 10. Chválím PyL pokaždé, když se jí povede vyřešit i sebemenší problém (dává jí to více chuti k dalšímu objevování).
 
-Kdo by se chtěl dále rozvíjet v koučovacích dovednostech, doporučuji si projít http://coach.djangogirls.org/tips/index.html (je to jediná stránka).
+Kdo by se chtěl dále rozvíjet v koučovacích dovednostech, doporučuji si projít [tipy pro kouče Django Girls](http://coach.djangogirls.org/tips/index.html) (je to jediná stránka).
