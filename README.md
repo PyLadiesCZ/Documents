@@ -15,8 +15,4 @@ Dokumenty související s organizací PyLadies v ČR.
 - [Zkušenosti sepsané Oskarem](first-run-feedback/experiences.md)
 - [Zpětná vazba ze schůzky](first-run-feedback/feedback.md)
 
-### [Brno](beginner-course/brno/) (zatím nic)
-
-(zatím nic)
-
 [tabulka-koucu]: https://docs.google.com/spreadsheets/d/1VGmtDIyKCG89Dlo__Zq_AoEb6Raa1cJs_9P6Nwelejw/edit#gid=444938247
