@@ -18,3 +18,5 @@ Dokumenty související s organizací PyLadies v ČR.
 ### [Brno](beginner-course/brno/) (zatím nic)
 
 (zatím nic)
+
+[tabulka-koucu]: https://docs.google.com/spreadsheets/d/1VGmtDIyKCG89Dlo__Zq_AoEb6Raa1cJs_9P6Nwelejw/edit#gid=444938247
